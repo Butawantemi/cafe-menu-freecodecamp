@@ -37,3 +37,9 @@ img {
     margin-right: auto;
     margin-top: -25px;
   }
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
